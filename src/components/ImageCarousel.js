@@ -20,10 +20,10 @@ const ImageCarousel = ({ images, className }) => {
             <img src={images[currentIndex]} alt={`Image ${currentIndex + 1}`} className={`carousel-image ${className}`} />
             <div className="navigation-buttons">
                 <button className='button-sizing' onClick={goToPreviousImage}>
-                    <img className='transitions' src={backwards} alt='backwards'/>
+                    <img className='arrows' src={backwards} alt='backwards'/>
                 </button>
                 <button className='button-sizing' onClick={goToNextImage}>
-                    <img className='transitions' src={forwards} alt='forwards'/>
+                    <img className='arrows' src={forwards} alt='forwards'/>
                 </button>
             </div>
         </div>
