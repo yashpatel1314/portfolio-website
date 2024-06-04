@@ -39,11 +39,11 @@ export default function Navbar() {
           </a>
         </li>
       </ul>
-      <Link to="/" className="yash-portfolio">
+      <Link to="/portfolio-website" className="yash-portfolio">
         <img className="mainIcon" src={yplogo} alt="yplogo" />
       </Link>
       <ul className="pages">
-        <DropdownLink to="/about" subLinks={[
+        <DropdownLink to="/portfolio-website/about" subLinks={[
           { name: "Hobbies & Interests", hash: "#HobbiesInterests" },
           { name: "Skills", hash: "#skills" },
           { name: "Education", hash: "#education" },
@@ -51,7 +51,7 @@ export default function Navbar() {
           { name: "Design Teams", hash: "#designteams" },
           { name: "Awards and Certificates", hash: "#Awards" }
         ]}>About</DropdownLink>
-        <DropdownLink to="/projects" subLinks={[
+        <DropdownLink to="/portfolio-website/projects" subLinks={[
           { name: "Computing & Programming", hash: "#computing-programming" },
           { name: "Mechanical Design", hash: "#mechanical-design" }
         ]}>Projects</DropdownLink>
