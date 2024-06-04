@@ -2,11 +2,11 @@ import Navbar from "./components/NavBar"
 import Projects from "./pages/Projects"
 import Home from "./pages/Home"
 import About from "./pages/About"
-import { Route, Routes } from "react-router-dom"
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <>
+    <Router basename="/portfolio-website">
       <Navbar />
       <div className="container">
         <Routes>
@@ -15,8 +15,9 @@ function App() {
           <Route path="/about" element={<About />} />
         </Routes>
       </div>
-    </>
-  )
+    </Router>
+  );
 }
 
-export default App
+export default App;
+
