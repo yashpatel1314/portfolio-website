@@ -14,13 +14,20 @@
 
 }
 
+.homecolumn {
+  float: left;
+  height: 700px;
+  width: 50%;
+  flex: 50%;
+}
 .title-picture {
     margin-top: 8rem;
-    margin-left: 4rem;
-    width: 75%;
-    height: 50%;
+    margin-left: 7rem;
+    width: 400px;
+    height: 400px;
     transition: linear all 0.4s;
     border-radius: 10px;
+    scale: 150%;
   }
   
   .profile-pic {
