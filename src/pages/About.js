@@ -180,7 +180,7 @@ export default function About() {
                 <div className="westlane-text">
                   <h3>Degree</h3>
                   <li>
-
+                    Ontario Secondary School Diploma (OSSD)
                   </li>
                   <h3>Relevant Experiences</h3>
                   <li>
