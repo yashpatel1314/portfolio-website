@@ -1,0 +1,346 @@
+.about-background {
+    background-image: linear-gradient(to bottom, #CB997E, #FFE8D6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    margin-top: 4.5rem;
+}
+
+.about-title {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+.about-main-picture {
+    margin-top: 5rem;
+    margin-left: 9rem;
+    width: 70%;
+    height: 80%;
+    justify-content: center;
+    transition: linear all 0.4s;
+    border-radius: 10px;
+}
+
+.main-about-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    transition: linear all 0.4s;
+}
+
+.hobbies-title {
+    margin-top: 12rem;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+.hobbies-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 200px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-right: 1rem;
+    margin-top: 0rem;
+    margin-left: 4rem;
+    padding-top: 0.1rem;
+    font-size: 20px;
+}
+
+.skills-row {
+    display: flex;
+    margin-top: 8rem;
+}
+
+.skills-title {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+.skills-subtitle {
+    
+    margin-top: -3.75rem;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+.skills-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 200px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-top: 0.1rem;
+    padding-right: 1rem;
+    margin-top: -0.5rem;
+    margin-left: 1rem;
+    margin-bottom: 4rem;
+    font-size: 20px;
+
+}
+
+.about-row {
+    display: flex;
+    margin-top: 7rem;
+}
+
+.picadjust {
+    margin-top: -4rem;
+    margin-left: 11rem;
+    width: 60%;
+    height: 80%;
+    justify-content: center;
+    transition: linear all 0.4s;
+    border-radius: 10px;
+    padding-bottom: 2rem;
+}
+
+
+.education-title {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+.waterloo-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 250px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    margin-top: -2.5rem;
+    padding-top: 0.1rem;
+    padding-right: 1rem;
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.waterloo-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+}
+
+
+.westlane-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 250px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-right: 1rem;
+    padding-top: 0.02px;
+    margin-top: -3.8rem;
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.westlane-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+}
+
+.work-title {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+.linamar-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 200px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    margin-top: -3rem;
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.linamar-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+    margin-top: 0.4rem;
+}
+
+.welbilt-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 200px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-top: 0.1rem;
+    padding-right: 1rem;
+    margin-top: 0rem;
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.welbilt-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+}
+
+.northland-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 200px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-top: 0.1rem;
+    padding-right: 1rem;
+    margin-top: 4.5rem;
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.northland-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+}
+
+.design-team-title {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+.watdig-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 300px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-top: 0.02px;
+    padding-right: 1rem;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.watdig-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+}
+
+.wato-text {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-radius: 10px;
+    width: 90%;
+    height: 120px;
+    background-color: #FFE8D6;
+    color: #CB997E;
+    transition: linear all 0.4s;
+    padding-top: 0.1rem;
+    padding-right: 1rem;
+    margin-top: 5.5rem;
+    margin-left: 4rem;
+    font-size: 20px;
+}
+
+.wato-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+}
+
+.award-title {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #FFE8D6;
+}
+
+
+.award-picadjust {
+    margin-top: -4rem;
+    margin-left: 33rem;
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+    transition: linear all 0.4s;
+    border-radius: 10px;
+    padding-bottom: 2rem;
+}
+
+.award-pic {
+    border-radius: 10px;
+    width: 100%;
+    height: 150%;
+    transition: linear all 0.4s;
+}
+
+
+
+

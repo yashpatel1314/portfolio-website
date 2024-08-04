@@ -1,0 +1,135 @@
+.nav li.active {
+    color: #faa666;
+  }
+  
+  .title-box {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .title-picture {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .hobbies-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .main-about-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .skills-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .waterloo-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+ 
+  .waterloo-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .westlane-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .westlane-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .linamar-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .linamar-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .welbilt-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .welbilt-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .northland-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .northland-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .watdig-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .watdig-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .wato-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .wato-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .award-pic {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .gui-project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .robot-project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .traffic-project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .rover-project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .bar-project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .kettle-project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .toolstand-project-text {
+    box-shadow: 2px 2px 20px 2px #faa666;
+  }
+
+  .android {
+    box-shadow: 2px 2px 11px 1px #faa666;
+  }
+
+  .carousel-sizing {
+    box-shadow: 2px 2px 11px 1px #faa666;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .dropdown-menu li a:hover {
+   color: #faa666;
+   transition: linear all 0.4s;
+  }
+  

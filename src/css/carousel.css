@@ -1,0 +1,35 @@
+.navigation-buttons {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+  
+.navigation-buttons button {
+    margin: 0 8px;
+    cursor: pointer;
+}
+  
+.button-sizing {
+    height: 25px;
+    width: 25px;
+    background-color: transparent;
+    border: 0cm;
+}
+  
+.arrows {
+    height: 20px;
+}
+  
+.android {
+    border-radius: 5px;
+    height: 25%;
+    width: 25%;
+    transition: linear all 0.4s;
+}
+  
+.carousel-sizing {
+    height: 50%;
+    max-height: 350px;
+    width: 50%;
+    border-radius: 10px;
+    transition: linear all 0.4s;
+}
