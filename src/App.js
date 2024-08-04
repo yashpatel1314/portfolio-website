@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
-    <Router basename="/portfolio-website2">
+    <Router basename="/portfolio-website">
       <Navbar />
       <div className="container">
         <Routes>
